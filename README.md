@@ -53,3 +53,9 @@ Recursively tries every combination of characters from a user-provided charset u
 -Log hash collisions and false positives
 -Optionally allow salting and test its impact
 
+# DISCLAIMER: 
+This project is intended strictly for educational and ethical purposes. 
+Unauthorized use of password cracking tools may violate privacy laws and security policies.
+
+
+
